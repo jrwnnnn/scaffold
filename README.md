@@ -33,7 +33,7 @@ npm run dev
 ## License
 
 Distributed under the MIT License.
-Copyright (c) 2025 Mark Jerwin(@jrwnnnn). All rights reserved.
+Copyright (c) 2026 Mark Jerwin(@jrwnnnn). All rights reserved.
 
 See the See the [LICENSE](LICENSE) file for full details.
 
