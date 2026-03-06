@@ -1,5 +1,8 @@
 name: Basic Checks
 
+permissions:
+  contents: read
+  
 on:
   push:
   pull_request:
