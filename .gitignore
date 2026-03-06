@@ -1,5 +1,14 @@
+# build output
+dist/
+
+# generated types
+.astro/
+
 # dependencies
 node_modules/
+
+# test Files
+test*
 
 # logs
 npm-debug.log*
@@ -15,7 +24,7 @@ pnpm-debug.log*
 *.key
 *.pem
 
-# Windows
+# windows
 Thumbs.db
 ehthumbs.db
 Desktop.ini
@@ -25,14 +34,3 @@ Desktop.ini
 
 # jetbrains setting folder
 .idea/
-
-# Test Files
-test*
-
-# ------------------------------ Stack Specific --------------
-
-# build output
-dist/
-
-# generated types
-.astro/

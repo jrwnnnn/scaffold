@@ -1,5 +1,4 @@
 // @ts-check
-// This is an AstroDB via Turso, deployment ready via adapter-node Astro scaffold.
 import { defineConfig } from 'astro/config';
 import tailwindcss from "@tailwindcss/vite";
 import node from "@astrojs/node";
