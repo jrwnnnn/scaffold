@@ -1,5 +1,10 @@
 name: CI/CD
 
+permissions:
+  security-events: write
+  actions: read
+  contents: read
+
 on:
   push:
     branches: [main]
@@ -31,10 +36,6 @@ jobs:
 
   codeql:
     runs-on: ubuntu-latest
-    permissions:
-      security-events: write
-      actions: read
-      contents: read
     steps:
       - uses: actions/checkout@v4
 
