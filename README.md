@@ -4,9 +4,12 @@
 
 <div align="center">
    <!-- FIND PREMADE BADGES HERE: https://github.com/Ileriayo/markdown-badges -->
-   <a href="https://opensource.org/license/mit"><img src="https://img.shields.io/badge/MIT-green?style=for-the-badge"></a>
-   <a href="https://github.com/jrwnnnn/scaffold"><img src="https://img.shields.io/github/stars/jrwnnnn/scaffold?style=for-the-badge"></a>
+   <a href="./LICENSE"><img src="https://img.shields.io/github/license/jrwnnnn/scaffold?style=for-the-badge"></a>
+   <a href="https://github.com/jrwnnnn/scaffold/stargazers"><img src="https://img.shields.io/github/stars/jrwnnnn/scaffold?style=for-the-badge"></a>
+   <a href="https://github.com/jrwnnnn/scaffold/actions"><img src="https://img.shields.io/github/actions/workflow/status/jrwnnnn/scaffold/main.yml?style=for-the-badge"></a>
 </div>
+
+<br>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
