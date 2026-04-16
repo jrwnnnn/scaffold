@@ -38,7 +38,7 @@ npx astro check
 ```
 ## CI Checks
 
-All pull requests must pass the [GitHub Actions](https://github.com/jrwnnnn/rekord/actions/workflows/main.yml) before they can be merged. The CI runs the following checks:
+All pull requests must pass the [GitHub Actions](https://github.com/jrwnnnn/scaffold/actions/workflows/main.yml) before they can be merged. The CI runs the following checks:
 
 - Linting
 - Typechecking
