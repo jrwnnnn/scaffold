@@ -9,35 +9,16 @@
    <a href="https://sqlite.org"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
    <a href="./LICENSE"><img src="https://img.shields.io/github/license/jrwnnnn/scaffold?style=for-the-badge"></a>
    <a href="https://github.com/jrwnnnn/scaffold/stargazers"><img src="https://img.shields.io/github/stars/jrwnnnn/scaffold?style=for-the-badge"></a>
-   <a href="https://github.com/jrwnnnn/scaffold/actions"><img src="https://img.shields.io/github/actions/workflow/status/jrwnnnn/scaffold/main.yml?style=for-the-badge"></a>
 </div>
 
 <br>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Prerequisites
-
-Make sure the following are installed:
-
-- [Node.js](https://nodejs.org/en/download/current)
-
-## Development
-
-```bash
-#Clone the repository
-git clone https://github.com/jrwnnnn/scaffold.git
-cd scaffold
-
-#Install the required dependencies
-npm install
-
-#Run the program
-npm run astro:dev
-```
+## Support
+If you run into any issues, please [open an issue](https://github.com/jrwnnnn/scaffold/issues) and include all relevant details needed to diagnose the problem.
 
 ## License
-
 Distributed under the MIT License.
 Copyright (c) 2026 Mark Jerwin(@jrwnnnn). All rights reserved.
 
@@ -53,7 +34,6 @@ The above copyright notice and this permission notice shall be included in all c
   <img src="https://contrib.rocks/image?repo=jrwnnnn/scaffold" />
 </a>
 
-<br>
 <br>
 
 <img src="https://forthebadge.com/images/badges/built-with-love.svg">
