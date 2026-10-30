@@ -4,7 +4,7 @@ First off, thanks for taking the time to contribute! These are the guidelines fo
 
 ## Code of Conduct
 
-All contributors are expected to adhere to the [Code of Conduct](CODE_OF_CONDUCT.md). 
+All contributors are expected to adhere to the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Reporting Issues
 
@@ -57,13 +57,14 @@ npm run test
 
 ### Code Style
 
-This project enforces a consistent code style using [Prettier](https://prettier.io/). A `.prettierrc` file is included in the project root to configure Prettier. 
+This project enforces a consistent code style using [Prettier](https://prettier.io/). A `.prettierrc` file is included in the project root to configure Prettier.
 
 ### Commit Messages
 
 Follow the [Conventional Commits v1.0.0](https://www.conventionalcommits.org/en/v1.0.0/) specification.
 
 ## Submitting a Pull Request
+
 1. Push your branch to your fork.
 2. Open a Pull Request against the main branch.
 3. Provide a concise summary of changes, problem analysis, and testing steps in the PR description.
