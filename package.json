@@ -6,34 +6,29 @@
 		"dev": "astro dev",
 		"build": "astro build",
 		"preview": "astro preview",
-		"generate-types": "wrangler types",
 		"test": "npx eslint . && npx astro check && npm run build",
 		"prepare": "husky"
 	},
 	"lint-staged": {
-		"*.{astro,css,js,json,md,mjs,ts,yaml}": "prettier --write"
+		"*.{astro,cjs,css,js,json,md,mjs,ts,yaml}": "prettier --write"
 	},
 	"dependencies": {
-		"@astrojs/cloudflare": "^14.3.1",
-		"@tailwindcss/vite": "^4.3.3",
-		"astro": "^7.3.2",
-		"tailwindcss": "^4.3.3"
+		"astro": "^7.3.2"
 	},
 	"devDependencies": {
 		"@astrojs/check": "^0.9.10",
-		"@cloudflare/workers-types": "^5.20260915.1",
 		"@eslint/js": "^10.0.1",
-		"@types/node": "^25.6.0",
-		"eslint": "^10.0.2",
-		"eslint-plugin-astro": "^1.6.0",
+		"@tailwindcss/vite": "^4.3.3",
+		"eslint": "^10.14.0",
+		"eslint-plugin-astro": "^3.2.1",
+		"globals": "^17.13.0",
 		"husky": "^9.1.7",
 		"lint-staged": "^17.6.0",
 		"prettier": "^3.8.1",
 		"prettier-plugin-astro": "^0.14.1",
 		"prettier-plugin-tailwindcss": "^0.7.2",
-		"typescript": "^5.9.3",
-		"typescript-eslint": "^8.56.1",
-		"vite": "^8.3.5",
-		"wrangler": "^4.131.2"
+		"tailwindcss": "^4.3.3",
+		"typescript-eslint": "^8.72.1",
+		"vite": "^8.3.5"
 	}
 }

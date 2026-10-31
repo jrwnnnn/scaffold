@@ -2,4 +2,3 @@ package-lock.json
 dist
 .astro
 node_modules
-worker-configuration.d.ts

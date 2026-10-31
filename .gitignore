@@ -1,17 +1,10 @@
 # build output
 dist/
-
 # generated types
 .astro/
 
-# wrangler files
-.wrangler/
-
 # dependencies
 node_modules/
-
-# test Files
-test*
 
 # logs
 npm-debug.log*
