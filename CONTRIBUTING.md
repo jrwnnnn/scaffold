@@ -8,7 +8,7 @@ All contributors are expected to adhere to the [Code of Conduct](CODE_OF_CONDUCT
 
 ## Reporting Issues
 
-Before writing any code, please [open an issue](https://github.com/jrwnnnn/scaffold-astro/issues) or comment on an existing one. This ensures we do not have multiple people working on the same feature and allows us to discuss the approach before you invest time in building it.
+Before writing any code, please [open an issue](https://github.com/jrwnnnn/scaffold/issues) or comment on an existing one. This ensures we do not have multiple people working on the same feature and allows us to discuss the approach before you invest time in building it.
 
 ## Development Setup
 
@@ -17,8 +17,8 @@ Make sure you have the latest LTS version of [Node.js](https://nodejs.org/en/dow
 Clone the repository:
 
 ```bash
-git clone https://github.com/jrwnnnn/scaffold-astro.git
-cd rekord
+git clone https://github.com/jrwnnnn/scaffold.git
+cd scaffold
 ```
 
 Install the required dependencies:
