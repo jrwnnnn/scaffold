@@ -7,6 +7,9 @@
 		"build": "echo \"No test build configured\" && exit 0",
 		"preview": "echo \"No test preview configured\" && exit 0",
 		"test": "echo \"No test command configured\" && exit 0",
+		"lint": "npm run format:check",
+		"format": "prettier --write .",
+		"format:check": "prettier --check .",
 		"prepare": "husky"
 	},
 	"lint-staged": {
