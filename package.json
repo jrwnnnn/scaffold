@@ -7,6 +7,11 @@
 		"build": "astro build",
 		"preview": "astro preview",
 		"test": "npx eslint . && npx astro check && npm run build",
+		"lint": "npm run eslint && npm run typecheck && npm run format:check",
+		"eslint": "eslint .",
+		"typecheck": "astro check",
+		"format": "prettier --write .",
+		"format:check": "prettier --check .",
 		"prepare": "husky"
 	},
 	"lint-staged": {
