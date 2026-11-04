@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  prettier:
+  lint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -16,4 +16,4 @@ jobs:
           node-version: 24
           cache: "npm"
       - run: npm ci
-      - run: npx prettier --check .
+      - run: npm run lint
